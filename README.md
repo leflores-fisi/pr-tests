@@ -1,3 +1,3 @@
 # pr-tests
 
-Just tests with GitHub pull requests
+Just tests with GitHub pull requests.
