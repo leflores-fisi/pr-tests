@@ -1,2 +1,1 @@
-for i in range (9):
-    print("Hola call center")
+print("Hola call center\n" * 9, end = "")
